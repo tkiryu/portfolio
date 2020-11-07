@@ -1,0 +1,15 @@
+{
+    "extends": ["@caddijp/stylelint-config", "stylelint-config-recommended"],
+    "rules": {
+      "indentation": 2,
+      "string-quotes": "single",
+      "value-no-vendor-prefix": true,
+      "property-no-vendor-prefix": true,
+      "selector-no-vendor-prefix": true,
+      "media-feature-name-no-vendor-prefix": true,
+      "at-rule-no-vendor-prefix": true,
+      "function-name-case": null,
+      "function-whitespace-after": null
+    }
+  }
+  

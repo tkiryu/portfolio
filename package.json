@@ -11,5 +11,9 @@
     "next": "9.5.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@caddijp/eslint-config": "^0.0.15",
+    "@caddijp/stylelint-config": "^0.0.15"
   }
 }
